@@ -1,0 +1,15 @@
+# Virtual environments
+env/
+env1/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Sensitive data
+mongopass.py
+
+# System files (macOS & Windows)
+.DS_Store
+Thumbs.db
